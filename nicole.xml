@@ -6092,7 +6092,7 @@
 		</attribute>
 		<attribute>
 			<id>FREQ_X_MHZ</id>
-			<default>0x708</default>
+			<default>0x7D0</default>
 		</attribute>
 		<attribute>
 			<id>FRU_ID</id>
